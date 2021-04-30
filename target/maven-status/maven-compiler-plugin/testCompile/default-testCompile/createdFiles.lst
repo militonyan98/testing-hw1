@@ -1,2 +1,4 @@
 URLBuilder.class
 InitialTest.class
+SearchTests\SearchTest.class
+Base\BaseTests.class
